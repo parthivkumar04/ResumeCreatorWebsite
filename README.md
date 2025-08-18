@@ -7,6 +7,7 @@ A Beginner-Simple full-stack Resume Builder web app with a React frontend(! insp
 
 <disclaimer>
 * To Add other templates u would need to manually customize the already existing templates to fit ur need .
+  
 * all images of people used in the templates are sample/demo images sourced from the internet and are included for illustrative purposes only. They do not represent real users of this project.
 
 HOW TO RUN :
