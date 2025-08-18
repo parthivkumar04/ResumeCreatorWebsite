@@ -1,5 +1,4 @@
 N PARTHIV KUMAR
-SRN : PES1UG23CS373
 
 drive view link :  https://drive.google.com/file/d/1otQa7y-kqn6QNP3Y5N7LkXhMOTLrmFxT/view?usp=sharing
 
