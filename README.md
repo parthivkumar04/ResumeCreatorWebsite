@@ -17,9 +17,14 @@ HOW TO RUN :
 
 3.make sure to reconfigure port numbers incase of errors !
 
-4.note that it may fail to run some packages incase there is version mismatch or package non availability in your current version of node ,etc .
+4.note that it may fail to run some packages incase there is version mismatch or package non availability in your current version of node ,etc.
 
-5.Try npm install in that case , if it still fails you will have manually install the correct versions .
+5.Try npm install in that case , if it still fails you will have manually install the correct versions.
+
+6.make sure to edit the .env file with your keys :
+>JWT : a random string backend uses to sign and verify tokens.
+>MongoURI : mongodb://localhost:27017/db1 , change to ur mongo db setup .
+The setup I used is availaible as mongosetup.png.
 
 
 
