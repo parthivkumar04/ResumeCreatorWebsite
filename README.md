@@ -22,8 +22,8 @@ HOW TO RUN :
 5.Try npm install in that case , if it still fails you will have manually install the correct versions.
 
 6.make sure to edit the .env file with your keys :
->JWT : a random string backend uses to sign and verify tokens.
->MongoURI : mongodb://localhost:27017/db1 , change to ur mongo db setup .
+>JWT : a random string backend uses to sign and verify tokens.<br>
+>MongoURI : mongodb://localhost:27017/db1 , change to ur mongo db setup .<br>
 The setup I used is availaible as mongosetup.png.
 
 
