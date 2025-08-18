@@ -5,10 +5,10 @@ drive view link :  https://drive.google.com/file/d/1otQa7y-kqn6QNP3Y5N7LkXhMOTLr
 
 A Beginner-Simple full-stack Resume Builder web app with a React frontend(! inspired ui !) and a Node.js/Express + MongoDB backend.( WT project )
 
-<disclaimer>
-1. To Add other templates u would need to manually customize the already existing templates to fit ur need .
+# disclaimer
+* all images of people used in the templates are sample/demo images sourced from the internet and are included for illustrative purposes only. They do not represent real users of this project.
 
-2. all images of people used in the templates are sample/demo images sourced from the internet and are included for illustrative purposes only. They do not represent real users of this project.
+Note : To Add other templates u would need to manually customize the already existing templates to fit ur need .
 
 HOW TO RUN :
 
