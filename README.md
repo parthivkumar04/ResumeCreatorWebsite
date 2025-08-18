@@ -1,6 +1,6 @@
 N PARTHIV KUMAR
 
-drive view link :  https://drive.google.com/file/d/1otQa7y-kqn6QNP3Y5N7LkXhMOTLrmFxT/view?usp=sharing
+project drive view link :  https://drive.google.com/file/d/1otQa7y-kqn6QNP3Y5N7LkXhMOTLrmFxT/view?usp=sharing
 
 A Beginner-Simple full-stack Resume Builder web app with a React frontend(! inspired ui !) and a Node.js/Express + MongoDB backend.( WT project )
 
