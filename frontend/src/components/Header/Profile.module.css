@@ -1,0 +1,104 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #fff; 
+  }
+  
+  h1 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    background: #fff;
+    padding: 60px;
+    border-radius: 8px;
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    min-width: 400px; 
+    max-width: 800px; 
+    margin-top: 40px; 
+  }
+  
+  .formGroup {
+    margin-bottom: 25px; 
+  }
+  
+  .formGroup label {
+    display: block;
+    margin-bottom: 10px; 
+    font-weight: bold;
+  }
+  
+  .formGroup input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submitButton {
+    background-color: rgb(97, 206, 113);
+    color: white;
+    padding: 18px 25px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  .submitButton:hover {
+    background-color: rgb(82, 176, 96);
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 25px; 
+  }
+  
+  .profileDetails {
+    background: #fff;
+    padding: 60px; 
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    min-width: 400px;
+    max-width: 800px; 
+  }
+  
+  .profileDetails p {
+    margin-bottom: 20px;
+  }
+  
+  .toggleText {
+    margin-top: 20px; 
+    color: #333;
+  }
+  
+  .toggleLink {
+    color: rgb(97, 206, 113);
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .success {
+    color: #4CAF50;
+    background-color: #DFF2BF;
+    border: 1px solid #4CAF50;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    width: auto;
+    max-width: 300px; 
+    z-index: 1000; 
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); 
+  }
+  

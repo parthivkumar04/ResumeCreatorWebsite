@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    height: 100vh;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 45px;
+    color: #046c92;
+  }
+  
+  .feedbackList {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    height: 100%;
+    overflow-y: auto; /* Make the list scrollable */
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .feedbackItem {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .email {
+    font-weight: bold;
+    color: #2995dc;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  .message {
+    color: #666;
+    text-align: left;
+  }
+  
+  .noFeedback {
+    color: #999;
+    text-align: center;
+  }
+  .t1 {
+    font-weight: bold;
+    color: rgb(55, 113, 151);
+
+  }
+  
