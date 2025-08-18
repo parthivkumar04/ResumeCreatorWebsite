@@ -1,5 +1,9 @@
-PES1UG23CS373 > N PARTHIV KUMAR
-A full-stack Resume Builder web app with a React frontend(inspired) and a Node.js/Express + MongoDB backend.
+N PARTHIV KUMAR
+SRN : PES1UG23CS373
+
+drive view link :  https://drive.google.com/file/d/1otQa7y-kqn6QNP3Y5N7LkXhMOTLrmFxT/view?usp=sharing
+
+A full-stack Resume Builder web app with a React frontend(inspired) and a Node.js/Express + MongoDB backend.( WT project )
 
 HOW TO RUN :
 
@@ -9,8 +13,8 @@ HOW TO RUN :
 
 3.make sure to reconfigure port numbers incase of errors !
 
-4.note that it may fail to run some packages incase of version mismatch or package non availiability in your current version .
+4.note that it may fail to run some packages incase there is version mismatch or package non availiability in your current version of node ,etc .
 
-5.Try npm install in that case , if it still fails you will have manually install the required versions .
+5.Try npm install in that case , if it still fails you will have manually install the correct versions .
 
 
