@@ -17,7 +17,7 @@ HOW TO RUN :
 
 3.make sure to reconfigure port numbers incase of errors !
 
-4.note that it may fail to run some packages incase there is version mismatch or package non availiability in your current version of node ,etc .
+4.note that it may fail to run some packages incase there is version mismatch or package non availability in your current version of node ,etc .
 
 5.Try npm install in that case , if it still fails you will have manually install the correct versions .
 
