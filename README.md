@@ -1,4 +1,4 @@
-N PARTHIV KUMAR
+@N PARTHIV KUMAR
 
 project drive view link :  https://drive.google.com/file/d/1otQa7y-kqn6QNP3Y5N7LkXhMOTLrmFxT/view?usp=sharing
 
@@ -26,5 +26,6 @@ HOW TO RUN :
 >MongoURI : mongodb://localhost:27017/db1 , change to ur mongo db setup .<br>
 The setup I used is availaible as mongosetup.png.
 
+@note that the frontend wrt resume creating ui was inspired and built via a yt tutorial!
 
 
